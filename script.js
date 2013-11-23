@@ -1,5 +1,7 @@
+var i=0; 
 var nightsDifference = function () {
-	return 24;
+	i=i+1;
+	return i;
 }
 
 var dodoCounter = function () {
