@@ -1,7 +1,7 @@
 var dodoCounter = function () {
   // C'est ici que tu vas ecrire le code (Toute les lignes qui commencent par // sont des commentaire
   // et sont ignoree par l'ordinateur)
-  return "Il est reste plusieurs dodos avant que Tom arrive";
+  return "Il reste plusieurs dodos avant que Tom arrive";
 };
 
 // Pour l'instant, c'est pas la peine que tu fasse attention a ce qui suit. Je
