@@ -1,6 +1,7 @@
-var i=0; 
+var i = 0; 
+
 var nightsDifference = function () {
-	i=i+1;
+	i = i + 1;
 	return i;
 }
 
